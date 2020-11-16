@@ -1,2 +1,5 @@
 server/node_modules/
 server/.env
+
+web/node_modules/
+web/dist/
